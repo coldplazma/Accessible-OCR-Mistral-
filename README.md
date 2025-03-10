@@ -1,6 +1,6 @@
 # Mistral OCR PDF-to-HTML Converter
 
-![Mistral OCR](https://mistral.ai/images/logo.svg)
+[Google Collab Link](https://colab.research.google.com/drive/1OnAxHy0ZKiP31yx0o6iSyPbng7NbAaue?usp=sharing))
 
 A collection of Jupyter notebooks for converting PDF documents to accessible, structured HTML using Mistral AI's OCR and vision capabilities.
 
